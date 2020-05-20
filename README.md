@@ -2,11 +2,11 @@
 电磁场课做过的Maxwell仿真归档
 
 
-![](URL title)
+![](https://github.com/bossConneR/MaxwellSimDoc/blob/master/pics/3ph_trans.png)
 
-![](URL title)
+![](https://github.com/bossConneR/MaxwellSimDoc/blob/master/pics/coil.png)
 
-![](URL title)
+![](https://github.com/bossConneR/MaxwellSimDoc/blob/master/pics/shield.png)
 
 
 
